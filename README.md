@@ -1,6 +1,6 @@
 <h1 align="center">Image to ASCII</h1>
 
-<div align= "center"><img src="assets/main.png" width="450" height="300" alt="Image to ASCII/> 
+<div align= "center"><img src="assets/main.png" width="450" height="300" alt="Image to ASCII"/> 
 
 <br/>
 
